@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/CMakeFiles/bootloader
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/CMakeFiles/bootloader.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/CMakeFiles/bootloader-complete.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/jalakamkiran/esp/esp32-adf-a1s-master/ai-examples/speech_recog_sample/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
